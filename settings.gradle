@@ -1,0 +1,3 @@
+rootProject.name = 'soap-filestorage'
+include 'consuming-web-service'
+include 'producing-web-service'
